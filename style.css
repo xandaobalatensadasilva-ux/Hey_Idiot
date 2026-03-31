@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=Honk:MORF@15&display=swap');
+body{
+    text-align: center;
+    background-color: rgb(255, 0, 0);
+}
+.logo{
+    font-family:"Honk", system-ui;
+}
+.imagemLogo{
+    border-radius:90%;
+}
+input{
+    text-align: center;
+}
+.botao{
+    height: 40px;
+    width: 100px;
+    background-color: rgb(42, 157, 165);
+    border:0;
+    font-size: 15px;
+    color:aqua;
+    font-family: Verdana,Geneva,Tahoma,sans-serif;
+    border-radius:10px;
+    cursor:pointer;
+}
